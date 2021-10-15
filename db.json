@@ -12,5 +12,12 @@
        "description":"This is an testing nft",
        "image_url":"https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/801637ae342dbd1.png",
        "title":"black coffee"
+    },
+    "3":{
+       "id":1,
+       "name":"pixel coffee",
+       "description":"This is an pixel nft",
+       "image_url":"https://static.vecteezy.com/system/resources/previews/002/270/535/original/retro-coffee-cup-8-bit-pixel-concept-vector.jpg",
+       "title":"pixel coffee"
     }
  }
