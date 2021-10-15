@@ -33,40 +33,5 @@
     "description": "This is an pixel nft",
     "image_url": "https://ih1.redbubble.net/image.398145347.6016/flat,1000x1000,075,f.u2.jpg",
     "title": "coffee with bits"
-  },
-  "5": {
-    "id": 5,
-    "name": "mono coffee",
-    "description": "This is an pixel nft",
-    "image_url": "https://thumbs.dreamstime.com/b/pixel-coffee-cup-logo-image-pixel-coffee-cup-logo-image-bit-game-assets-cross-stitch-pattern-t-shirt-design-vector-221879267.jpg",
-    "title": "mono coffee"
-  },
-  "6": {
-    "id": 6,
-    "name": "raw coffee",
-    "description": "This is an pixel nft",
-    "image_url": "https://static.thenounproject.com/png/644035-200.png",
-    "title": "raw coffee"
-  },
-  "7": {
-    "id": 7,
-    "name": "latte",
-    "description": "This is an pixel nft",
-    "image_url": "https://thumbs.dreamstime.com/b/pixel-cup-coffee-bit-85564940.jpg",
-    "title": "latte"
-  },
-  "8": {
-    "id": 8,
-    "name": "coffee pot",
-    "description": "This is an pixel nft",
-    "image_url": "https://ih1.redbubble.net/image.2057408215.2392/aps,504x498,small,transparent-pad,600x600,f8f8f8.jpg",
-    "title": "coffee pot"
-  },
-  "9": {
-    "id": 9,
-    "name": "coffee with an eye",
-    "description": "This is an pixel nft",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__O4EU-m1kMVf6aAalgnXvMsBslmK8A7XjA&usqp=CAU",
-    "title": "coffee with an eye"
   }
 }
